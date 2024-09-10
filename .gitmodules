@@ -1,0 +1,72 @@
+[submodule "diana_aldunate"]
+	path = diana_aldunate
+	url = https://github.com/Diana-A88/taller_DG1.git
+[submodule "diego_angulo"]
+	path = diego_angulo
+	url = https://github.com/DiegoAnguloC/Sitio-Personal.git
+[submodule "jhara_arosquita"]
+	path = jhara_arosquita
+	url = git@github.com:Jharahtml/presentacion.git
+[submodule "emily_astor"]
+	path = emily_astor
+	url = git@github.com:emilyastorix/pipis-repositorio.git
+[submodule "juanandres_blanco"]
+	path = juanandres_blanco
+	url = https://github.com/juanAndresBm/sitio_personal.git
+[submodule "ahriel_cadena"]
+	path = ahriel_cadena
+	url = git@github.com:AhrielCadena18/sitio_personal.git
+[submodule "angel_calle"]
+	path = angel_calle
+	url = git@github.com:MansmithAC/Pagina_presentacion.git
+[submodule "samara_camargo"]
+	path = samara_camargo
+	url = git@github.com:samara-camargo/pagina-personal.git
+[submodule "sophia_carrasco"]
+	path = sophia_carrasco
+	url = git@github.com:sophie-cv25/sitio_personal.git
+[submodule "nahir_casablanca"]
+	path = nahir_casablanca
+	url = git@github.com:Nahiree/sitio_personal.git
+[submodule "guillermo_cervantes"]
+	path = guillermo_cervantes
+	url = git@github.com:GuillermoCervantes4/sitio_personal_respaldo.git
+[submodule "galilea_cossio"]
+	path = galilea_cossio
+	url = git@github.com:GalileaCossio/WebPersonalFinal.git
+[submodule "gabriel_flores"]
+	path = gabriel_flores
+	url = git@github.com:GabrielFernandoFloresSantaCruz/sitio_personal.git
+[submodule "lenotchka_gomez"]
+	path = lenotchka_gomez
+	url = git@github.com:lenogogar/Pagina_web_personal.git
+[submodule "mariafernanda_lujan"]
+	path = mariafernanda_lujan
+	url = git@github.com:MaFerlujan/mi-pagina-personal.git
+[submodule "andre_pozo"]
+	path = andre_pozo
+	url = git@github.com:AndrePozoGarcia/sitiopersonal.git
+[submodule "abigail_quisbert"]
+	path = abigail_quisbert
+	url = git@github.com:ulupikita/Sitio-Personal.git
+[submodule "gianira_salas"]
+	path = gianira_salas
+	url = git@github.com:sinaigok/SitioPersonal_GianiraSalas.git
+[submodule "ignacio_tapia"]
+	path = ignacio_tapia
+	url = git@github.com:ITLAZ/sitio_personal.git
+[submodule "miguel_valeriano"]
+	path = miguel_valeriano
+	url = git@github.com:MigueValeriano/sitio_personal.git
+[submodule "veronica_vidaurre"]
+	path = veronica_vidaurre
+	url = git@github.com:veruzh19/pagina_personal.git
+[submodule "pedro_zilvetti"]
+	path = pedro_zilvetti
+	url = git@github.com:PedroZilvetti/Sitio_personal_final.git
+[submodule "michael_vega"]
+	path = michael_vega
+	url = git@github.com:MichaelVC21/sitio_personal.git
+[submodule "naim_salta"]
+	path = naim_salta
+	url = git@github.com:mostazita58/skibidi_web.git
